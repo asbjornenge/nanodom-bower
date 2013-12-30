@@ -1,0 +1,14 @@
+{
+  "name": "nanodom",
+  "version": "0.0.1",
+  "homepage": "https://github.com/asbjornenge/nanodom",
+  "authors": [
+    "Asbjørn Enge <asbjorn@hanafjedle.net>"
+  ],
+  "description": "Tiny dom manipulation library",
+  "main": "nanodom.min.js",
+  "keywords": [
+    "dom"
+  ],
+  "license": "BSD"
+}
